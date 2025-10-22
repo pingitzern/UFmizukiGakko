@@ -1,4 +1,4 @@
-# Sistema de Ultrafiltración Dual
+# Sistema de Ultrafiltración Dual.
 
 Proyecto basado en PlatformIO para Arduino UNO que controla un sistema de ultrafiltración dual utilizando un LCD Keypad Shield 16×2 (DFRobot/Nubbeo) y un módulo de 4 relés.
 
